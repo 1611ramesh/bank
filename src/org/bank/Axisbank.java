@@ -6,6 +6,7 @@ public class Axisbank {
 		System.out.println("7");}
 	public Axisbank() {
 super(122.42d)
+System.out.println("my bank is axis");
 
 	
 	
